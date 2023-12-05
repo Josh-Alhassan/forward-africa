@@ -1,3 +1,12 @@
+/* Bevonshire */
+@import url('https://fonts.googleapis.com/css2?family=Devonshire&display=swap');
+
+/* Chela One */
+@import url('https://fonts.googleapis.com/css2?family=Chela+One&display=swap');
+
+/* Crimson Pro */
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@400;600&display=swap');
+
 * {
   padding: 0;
   margin: 0;
@@ -11,9 +20,16 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  max-width: 1440px;
+  margin: 0 auto;
+  color: #000;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+:root {
+  --header-background: #FBA435;
 }
