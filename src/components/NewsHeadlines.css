@@ -1,0 +1,30 @@
+.news-headlines {
+    margin-bottom: 118px;
+}
+
+.news-heading {
+    padding-bottom: 2px;;
+    border-bottom: 2px solid #000;
+    display: inline-block;
+}
+
+.news-headlines {
+    /* margin-top: px; */
+    font-size: 16px;
+    font-family: 'Roboto';
+}
+
+.news-headline {
+    margin-top: 45px;
+}
+
+.news-headline a {
+    text-decoration: none;
+    color: #000;
+}
+
+.categories {
+    text-align: center;
+    border-bottom: 2px solid #000;
+    display: inline-block;
+}
