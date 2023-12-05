@@ -1,0 +1,32 @@
+.about-website__wrapper {
+    width: 80%;
+    display: flex;
+    gap: 45px;
+    justify-content: space-between;
+
+    margin: 0 auto;
+    margin-top: 15px;
+
+    border-bottom: 2px solid #000;
+
+    padding-bottom: 20px;
+}
+
+.about-website {
+    width: 50%;
+}
+
+.about-website__info {
+    display: flex;
+    gap: 21px;
+}
+
+.about-website__img {
+    width: 233px;
+    height: 233px;
+}
+
+.about-website__description {
+    font-size: 16px;
+    /* overflow-x: scroll; */
+}
