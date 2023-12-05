@@ -25,7 +25,7 @@ function About() {
             </div>
 
             <div className='about-website'>
-                <ComponentHeading text="About Website" />
+                <ComponentHeading text="About Author" />
 
                 <div className="about-website__info">
                     <img src={author} alt="Author" className='about-website__img' />
