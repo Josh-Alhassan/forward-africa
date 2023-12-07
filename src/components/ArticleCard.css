@@ -1,21 +1,27 @@
 .article-card {
     display: flex;
     gap: 14px;
-    width: 611px;
+    width: 700px;
 
-    margin-bottom: 15px;
+    margin-bottom: 25px;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
 }
 
 .article-img {
     width: 356px;
-    height: 247px;
+    height: auto;
 
-    flex-shrink: 0;
+    object-fit: cover;
+    object-position: top;
 }
 
 .article-info {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     flex-direction: column;
 }
 
@@ -28,7 +34,7 @@
     margin-bottom: 20px;
 }
 
-.article-description {
+.article-title {
     font-weight: 400;
     font-size: 18px;
     font-weight: 600;
@@ -36,9 +42,15 @@
     text-transform: capitalize;
 }
 
+.article-description {
+    font-size: 16px;
+    text-align: justify;
+}
+
 .article-link {
-    text-decoration: none;
     margin-top: 10px;
     display: block;
     text-align: right;
+    font-weight: 600;
+    cursor: pointer;
 }

@@ -55,7 +55,7 @@
 .second-category {
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-start;
 }
 
 .recent-articles-title,
