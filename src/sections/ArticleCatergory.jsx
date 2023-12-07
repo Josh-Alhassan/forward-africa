@@ -7,29 +7,13 @@ import imgTest from '../assets/logo.png';
 function ArticleCatergory() {
     return (
         <div className='article-category'>
-            <ArticleCard imgSrc={imgTest} tier="N 25.00" description="Text box with a snippet of 
-what would be in the page.
-And with a tap on this text,
-it moves you to a full 
-viewed info." />
+            <ArticleCard imgSrc={imgTest} tier="N 25.00" description="Africa Invented School (Formal Education)" />
 
-            <ArticleCard imgSrc={imgTest} tier="N 25.00" description="Text box with a snippet of 
-what would be in the page.
-And with a tap on this text,
-it moves you to a full 
-viewed info." />
+            <ArticleCard imgSrc={imgTest} tier="N 25.00" description="Black Africans Wrote the Bible and the Qur'an." />
 
-            <ArticleCard imgSrc={imgTest} tier="N 25.00" description="Text box with a snippet of 
-what would be in the page.
-And with a tap on this text,
-it moves you to a full 
-viewed info." />
+            <ArticleCard imgSrc={imgTest} tier="N 25.00" description="Black Owners of Egype not White Arabs" />
 
-            <ArticleCard imgSrc={imgTest} tier="N 25.00" description="Text box with a snippet of 
-what would be in the page.
-And with a tap on this text,
-it moves you to a full 
-viewed info." />
+            <ArticleCard imgSrc={imgTest} tier="N 25.00" description="These are Originally African Concepts: Mus, Tragedy, etc" />
         </div>
     )
 }

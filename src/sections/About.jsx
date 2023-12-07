@@ -15,11 +15,9 @@ function About() {
                     <img src={aboutlogo} alt="About Logo" className='about-website__img' />
 
                     <p className="about-website-description">
-                        This website brings refreshing information about Africa in a climate of doubt about Africa’s pioneering exploits in civilization, arts and sciences. It has struggled with its colonial image as the ‘Dark Continent’ and its perceived incapacity to develop itself let alone lead the world. 
+                    "AL-BISHAK, FORWARD AFRICA!" challenges negative stereotypes about Africa, attributing its perceived challenges to misinformation and leadership mismanagement. Criticizing the focus on the slavery era by Africanist writers, the text highlights mental slavery, introduced by Eurasian intellectuals associating black skin with backwardness. The website aims to showcase Africa's concrete achievements, emphasizing the importance of tracing its history to the Egyptian Empire. It seeks a balanced perspective, incorporating positive contributions from intellectuals of all races, both European and African, instead of being a platform for lamentation.
 
                     </p>
-
-                    {/* Africa has suffered both misinformation (false information based on insufficient facts or knowledge) and disinformation (false information based on the tendency to deliberately mislead by twisting the facts). This website intends to correct this anomaly. It does so by reporting the facts on Africa based on historical and archaeological records. It will also put pictures and videos that will strengthen the correct information on Africa. It is important to stress that this website does not promote any race against the other. It believes in one human race which integrates all the races. It believes that to achieve one humanity it is imperative to correct the wrong information made against the Negroid race in the past. */}
 
                 </div>
             </div>

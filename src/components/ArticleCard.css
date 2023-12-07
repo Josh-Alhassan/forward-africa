@@ -25,13 +25,15 @@
     font-weight: 500;
     text-align: right;
 
-    margin-bottom: 35px;
+    margin-bottom: 20px;
 }
 
 .article-description {
     font-weight: 400;
     font-size: 18px;
-    text-align: justify;
+    font-weight: 600;
+    /* text-align: justify; */
+    text-transform: capitalize;
 }
 
 .article-link {

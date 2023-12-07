@@ -8,7 +8,7 @@ function ArticleCard({imgSrc, description, tier}) {
       <div className="article-info">
         <h3 className="tier-plan">{tier}</h3>
         <p className="article-description">{description}</p>
-        <a href="#" className='article-link'>Click to Read</a>
+        <a href="../sections/FormalEducation.jsx" className='article-link'>Click to Read</a>
       </div>
     </div>
   )
