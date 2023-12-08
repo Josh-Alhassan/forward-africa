@@ -31,3 +31,12 @@
     text-align: justify;
     /* overflow-x: scroll; */
 }
+
+.about-card-link {
+    margin-bottom: 15px;
+    font-size: 32px;
+}
+
+.about-card-link:hover {
+    text-decoration: underline;
+}
